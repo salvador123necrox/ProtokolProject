@@ -1,4 +1,4 @@
-![GitHub Logo](/ProtokolLogo.png)
+![GitHub Logo](ProtokolLogo.png)
 Format: ![Alt Text](url)
 
-<h2>Im·genes<h2>
+<h2>Im√°genes<h2>
