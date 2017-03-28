@@ -1,5 +1,5 @@
 # ProtokolProject
 ProtokolTeam EXPO 2017
-Soi io xdXdxD "Walter"
-Podes leer esto David?
-Si puedo leerlo cambio, vos ves esto?
+<h1>Indicaciones<h1>
+*Cuando vayan a subir su código le ponen de que clase es (Ej: Web, Mobile, Desktop) más la palabra "Code"
+Ej: "WebCode" y dentro de esa carpeta pueden tener subcarpetas (Html, Css, Js, Php) o como ustedes gusten.
