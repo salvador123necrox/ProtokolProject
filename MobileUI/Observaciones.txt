@@ -1,0 +1,6 @@
+En "registerFinal" si se cierra la aplicación los datos quedarán guardados en caché.
+Entonces si el usuario le da en crear cuenta y pone el primer paso igual al primer paso
+almacenado en caché le tirará un messageBox diciendo si desea recuperar los datos
+perdidos
+
+Las Textbox no les puse marca de agua pero si van a tener
